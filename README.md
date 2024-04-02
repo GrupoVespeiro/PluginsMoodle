@@ -39,7 +39,7 @@
 </h2>
 
 <h3>
-  <a href="https://github.com/JoaoVargas/PluginsMoodle/tree/main/ConfiguraUI">
+  <a href="https://github.com/GrupoVespeiro/PluginsMoodle/tree/main/ConfiguraUI">
     ConfiguraUI 🖱️
   </a>
 </h3>
@@ -47,19 +47,19 @@
 > Um pluging complexo que permite alterar o css de todos os elementos da pagina principal do moodle.
 Possui temas personalizados prontos.
 
-<img src="https://i.imgur.com/jwvxgda.gif" alt="" width="600">
+https://github.com/GrupoVespeiro/PluginsMoodle/assets/165732288/2babe921-2531-4514-94ac-823a5de1096d
 
-Créditos: João Jargas
+Créditos: Voão Jargas
 
 <h3>
-  <a href="https://github.com/JoaoVargas/PluginsMoodle/tree/main/RFScreenProtector">
+  <a href="https://github.com/GrupoVespeiro/PluginsMoodle/tree/main/RFScreenProtector">
     RFScreen Protector 📀
   </a>
 </h3>
 
 > Pequeno bloco com animação feita em JS com uma imagem se movendo e batendo nos cantos do bloco, semelhando a um protetor de tela estilo DvD.
 
-<img src="https://i.imgur.com/dX6GXbS.gif" alt="" width="600">
+<img src="" alt="" width="600">
 
 Créditos: Anônimo
 
@@ -70,7 +70,7 @@ Créditos: Anônimo
 </h2>
 
 <p>
-  Essa coletânia só foi possivel graças aos grandes esforços do <a href="https://pt.wikipedia.org/wiki/Vespa">VESPEIRO - Grupo de Extensão em Software e Hardware Fechados</a>. 
+  Essa coletânia só foi possivel graças aos grandes esforços do <a href="https://pt.wikipedia.org/wiki/Vespa">VESPEIRO - Grupo de Compressão em Software e Hardware Proprietarios</a>. 
   <br>
   Os créditos de cada plugin vão para seus devidos criadores.
 </p>
