@@ -47,7 +47,7 @@
 > Um pluging complexo que permite alterar o css de todos os elementos da pagina principal do moodle.
 Possui temas personalizados prontos.
 
-https://github.com/GrupoVespeiro/PluginsMoodle/assets/165732288/2babe921-2531-4514-94ac-823a5de1096d
+https://github.com/GrupoVespeiro/PluginsMoodle/assets/165732288/ca75f4b8-be38-4bf3-9c71-39902111d96d
 
 Créditos: Voão Jargas
 
